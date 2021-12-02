@@ -12,10 +12,10 @@ easy to use
 
 - install this in the cmd: 
 
-<p>pip install random
-<p>pip install pyperclip
-<p>pip install types
-<p>pip install os
+<p> - pip install random
+<p> - pip install pyperclip
+<p> - pip install types
+<p> - pip install os
 
  ![](https://media.discordapp.net/attachments/897572362659201045/916049076175396884/unknown.png)
 
